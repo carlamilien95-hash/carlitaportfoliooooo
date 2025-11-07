@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Document</title
+</head>
+<body>
+    <h1>Calculatrice</h1>
+<p>
+Pendant ce TP, j'ai appris à utiliser JavaScript 
+pour faire fonctionner une calculatrice sur une page web. 
+J'ai compris comment récupérer les valeurs des champs 
+et échanger les valeurs des champs. J'ai aussi appris à gérer
+* les erreurs, comme la division par zéro, et à remettre tous 
+les champs à zéro avec un bouton "Effacer". 
+Ce TP m'a aidé à mieux comprendre comment JavaScript, HTML et 
+le CSS.
+</p>
+
+<label>Nombre 1</label>
+<input type="text" id="t1" placeholder="saisir un nombre">
+
+<label>Nombre 2</label>
+<input type="text" id="t2" placeholder="saisir un nombre">
+<br><br>
+<button onclick="somme()">+</button>
+<button onclick="soustraction()">-</button>
+<button onclick="multiple()">X</button>
+<button onclick="division()">:</button>
+<br>
+<button onclick="permute()">Permute</button>
+<button onclick="effacer()">Efffacer</button>
+<button onclick="paire()">paire</button>
+
+<br><br>
+<label>Résultat</label>
+<input type="text" id="t3" placeholder="Résultat" readonly>
+
+<label>Pair</label>
+<input type="text" id="t4" placeholder="Pair/Impair" readonly>
+
+</body>
+</html>
