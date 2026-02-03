@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\bin\Debug\net10.0\FirstProject.exe
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\bin\Debug\net10.0\FirstProject.deps.json
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\bin\Debug\net10.0\FirstProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\bin\Debug\net10.0\FirstProject.dll
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\bin\Debug\net10.0\FirstProject.pdb
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\FirstProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\FirstProject.dll
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\refint\FirstProject.dll
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\FirstProject.pdb
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\FirstProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\projet\CSHARP\FirstProject\obj\Debug\net10.0\ref\FirstProject.dll
